@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StuManSys:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="StuManSys.jar">
+      <element id="module-output" name="StuManSys" />
+      <element id="extracted-dir" path="E:/我的文档/接受文件/DataBaseProject (1).jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
